@@ -4,4 +4,5 @@ Trabajo practico Integrador de Busqueda y Ordenamiento - Programación Comision 
 Alummos: Barroeta Victor Manuel, Beauvallet Pablo Nahuel.
 
 El trabajo se baso en la comparación del algoritmos bubble sort y el algoritmo quick sort, cada codigo en el repositorio mide el tiempo de ejecucion de caso practico para poner a prueba
-link del video https://www.youtube.com/watch?v=tPhr-ECwQM0
+
+Link del video https://www.youtube.com/watch?v=tPhr-ECwQM0
